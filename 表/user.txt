@@ -1,0 +1,11 @@
+userId	userName	eMail	passWord	signIntime
+1	admin	1223079628@qq.com	123456AbcD	Mon Nov 25 2019 13:12:14 GMT+0800 (中国标准时间)
+2	admin1	admin1@qq.com	123456AbcD	Wed Dec 25 2019 13:12:14 GMT+0800 (中国标准时间)
+3	admin2	admin2@qq.com	123456AbcD	Thu Dec 26 2019 13:12:14 GMT+0800 (中国标准时间)
+4	admin3	admin3@qq.com	123456AbcD	Fri Dec 27 2019 13:12:14 GMT+0800 (中国标准时间)
+5	admin4	admin4@qq.com	123456AbcD	Sat Dec 28 2019 13:12:14 GMT+0800 (中国标准时间)
+6	admin5	admin5@qq.com	123456AbcD	Sun Dec 29 2019 13:12:14 GMT+0800 (中国标准时间)
+7	admin6	admin6@qq.com	123456AbcD	Mon Dec 30 2019 13:12:14 GMT+0800 (中国标准时间)
+8	admin7	admin7@qq.com	123456AbcD	Tue Jan 01 2019 13:12:14 GMT+0800 (中国标准时间)
+9	admin8	admin8@qq.com	123456AbcD	Tue Feb 26 2019 13:12:14 GMT+0800 (中国标准时间)
+10	admin9	admin9@qq.com	123456AbcD	Mon Aug 26 2019 13:12:14 GMT+0800 (中国标准时间)
