@@ -257,7 +257,7 @@ select
  11. Get the url of the book with book name. If the book is not in the database, return the 'null'.
  
  getPictureUrl('aa')
- www.a.com/a.pic
+ www.a.com/apicP
  */
 drop function getPictureUrl;
 
@@ -273,7 +273,7 @@ where
     title = param1;
 
 select
-    bookPhoto into bookName
+    replace(bookPhoto, '.', '') into bookName
 from
     recommend
 where
